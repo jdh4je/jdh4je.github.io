@@ -3,7 +3,7 @@
 This is where I'll put everything that interests me.<br/>
 This is a [test](./test.md) link
 
-| About Me |
+| [About Me](./aboutme.md) |
 |----------|
 | [Physics](./Physics/physics_index)  |
 | [Math](./Math/math_index)     |
