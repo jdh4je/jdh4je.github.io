@@ -1,3 +1,7 @@
-# This is a test
-
-This is a test to see if I can get multiple pages on my site
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
