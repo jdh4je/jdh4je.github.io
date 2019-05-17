@@ -5,6 +5,6 @@ This is a [test](./test.md) link
 
 | About Me |
 |----------|
-| [Physics](./physics_index)  |
-| [Math](./math_index)     |
-| [Projects](./projects_index) | 
+| [Physics](./Physics/physics_index)  |
+| [Math](./Math/math_index)     |
+| [Projects](./Projects/projects_index) | 
